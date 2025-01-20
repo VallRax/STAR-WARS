@@ -42,7 +42,7 @@
         text-decoration: none;
     }
     main{
-        background-image: url("/img/img-background.jpg");
+        background-image: url("/html+css/img/img-background.jpg");
         background-position: center;
         background-size: cover;
         display: flex;
@@ -74,3 +74,4 @@
         opacity: 0.9;
         
     }
+    
